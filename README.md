@@ -11,8 +11,9 @@
       residential homes in Ames, Iowa.
 
 **Project Outcome**
-• The aim of the project is to help understand working with the 
-dataset and performing analysis.
-• This project will assess the data and prepares a fresh dataset 
-for training and prediction
-• To create a box plot to identify the variables with outliers
+      
+      • The aim of the project is to help understand working with the 
+      dataset and performing analysis.
+      • This project will assess the data and prepares a fresh dataset 
+      for training and prediction
+      • To create a box plot to identify the variables with outliers
